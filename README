@@ -1,0 +1,3 @@
+Shearsort does not use threads and reads the input from the file and uses shearsort, run with ./shearsort
+
+Threadsort uses threads and reads the input from the file, but it does not work properly, run with ./threadsort
